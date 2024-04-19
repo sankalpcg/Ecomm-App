@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377696615528",
+    "firebase_url": "https://ecommerceapp-ffbf3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ecommerceapp-ffbf3",
+    "storage_bucket": "ecommerceapp-ffbf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377696615528:android:7c54af4100059ea86dcfdd",
+        "android_client_info": {
+          "package_name": "in.macrocodes.creatives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377696615528-72flku92rpl9ih233js4urdht3lfckai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVHttrxtiePMNYbbRLD7lZqCkedgC37A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377696615528-72flku92rpl9ih233js4urdht3lfckai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
